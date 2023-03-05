@@ -3,7 +3,7 @@
 solana_version: "v1.15.0"
 raw_disk_list: ["/dev/nvme0n1"]
 setup_disks: "true"
-download_snapshot: "true"
+download_snapshot: "false"
 ramdisk_size: 300
 swap_mb: "100000"
 
